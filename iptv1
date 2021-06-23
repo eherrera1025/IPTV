@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Estrella TV
+#EXTINF:-1,EstrellaTV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,B
+#EXTINF:-1,Telemundo
+https%3a//wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_1_av-p.m3u8
