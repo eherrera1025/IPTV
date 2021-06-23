@@ -2,6 +2,6 @@
 #EXTINF:-1,EstrellaTV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1,Univision
-https://cdn23-phl.the6tv.duckdns.org:2443/the6tv-philadelphia/the6tv-2Geyj4U8De/index.m3u8
+live/manifests/J9zlE3GC8pB4oSgksqEz8OcNvyO6LMRZ/univision-east-dist/master.m3u8
 #EXTINF:-1,Telemundo
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
