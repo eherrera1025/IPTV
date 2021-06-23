@@ -3,3 +3,5 @@
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1,Univision
 rtmp://167.114.157.90/app/turbomaxs-channel
+#EXTINF:-1,Telemundo
+rtmp://167.114.159.155:1935/app/chivasss69s-channel
