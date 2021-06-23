@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,EstrellaTV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Univision
-http://playkodi.info/normalize/?lib=33685286
+#EXTINF:-1,Univision Deportes
+http://89.105.194.59:25461/live/ussKKF10/ussKKF10/50.m3u8
