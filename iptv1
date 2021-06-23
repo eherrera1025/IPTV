@@ -2,6 +2,6 @@
 #EXTINF:-1,EstrellaTV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1,Univision
-rtmp://167.114.157.90/app/turbomaxs-channel
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200.m3u8
 #EXTINF:-1,Telemundo
-rtmp://167.114.159.155:1935/app/chivasss69s-channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
