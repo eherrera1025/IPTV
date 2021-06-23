@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1,EstrellaTV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Telemundo
-http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/11067
-#EXTINF:-1,Univision Deportes
-http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/11130
+#EXTINF:-1,Univision
+rtmp://167.114.157.90/app/turbomaxs-channel
