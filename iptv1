@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1,Azteca
+https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
+#EXTINF:-1,Azteca Uno (Mexico)
+http:\\190.122.96.187:8888\http\002
 #EXTINF:-1,Estrella TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Telmundo
-https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1,Univision
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
